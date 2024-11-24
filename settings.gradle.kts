@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Application"
-include(":app")
+rootProject.name = "Coffe Shop Mobile App"
+include(":app", ":data")

@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">App</string>
+    <string name="image_onboarding">Onboarding image</string>
+    <string name="get_started">Get Started</string>
+    <string name="subtitle_onboarding">Welcome to our cozy coffee corner, where every cup is a delightful for you.</string>
+    <string name="title_onboarding">Fall in Love with Coffee in Blissful Delight!</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+    <string name="coffee_image">Coffee Image</string>
+    <string name="rating">Rating\n</string>
+    <string name="description">Description</string>
+    <string name="read_more">Read More</string>
+    <string name="detail_product_description">A cappuccino is an approximately 150 ml (5 oz) beverage, with 25 ml of espresso coffee and 85ml of fresh milk the foamed milk creates a rich, creamy texture that complements the strong flavor of the espresso, resulting in a balanced and satisfying drink that is often enjoyed as a morning pick-me-up or an afternoon treat.</string>
+    <string name="size">Size</string>
+    <string name="price">Price</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="promo">Promo</string>
+    <string name="promo_text">Buy one get\none FREE</string>
+    <string name="coffee_search_placeholder">Search Coffee</string>
 </resources>
